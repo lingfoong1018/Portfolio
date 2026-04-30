@@ -1,7 +1,5 @@
 ## UNSW Degree Planner (Team Project)
 
-GitHub: https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-3900-t09a-date
-
 This project was developed as part of a team of 6.
 
 We built a full-stack degree planning web app that helps students track program requirements and manage course selections, including an admin interface for editing complex program structures through a user-friendly UI.
